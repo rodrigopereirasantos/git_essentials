@@ -1,1 +1,2 @@
 Este é o terceiro arquivo
+Arquivo de teste
